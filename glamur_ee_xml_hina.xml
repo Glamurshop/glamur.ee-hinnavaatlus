@@ -1,953 +1,953 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pricelist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.hinnavaatlus.ee/xml_hinnakiri.xsd">
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[4711]]></Vendor>
-       <Name><![CDATA[4711 Acqua Colonia Starfruit &amp; White Flowers EDC 100ml]]></Name>
-       <Code><![CDATA[who-228023]]></Code>
-       <GTIN>4011700748730</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>23.36</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/4711-acqua-colonia-starfruit-white-flowers-edc?variant=51963643265290]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/541131_acqua_colonia_starfruit_white_flowers_edc_l_d59c01a9-296c-440f-9ce3-c314d9d0f590.jpg?v=1771593210]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/4711-acqua-colonia-starfruit-white-flowers-edc]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kvepalai]]></Category>
-       <Vendor><![CDATA[4711]]></Vendor>
-       <Name><![CDATA[4711 Acqua Colonia Yuzu &amp; Cedarwood EDC 100ml]]></Name>
-       <Code><![CDATA[who-221805]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>28.31</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/4711-acqua-colonia-yuzu-cedarwood-edc?variant=51963643527434]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/565770_acqua_colonia_yuzu_cedarwood_edc_l_864a411a-1265-4e95-9a24-149db0c67032.jpg?v=1772700582]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/4711-acqua-colonia-yuzu-cedarwood-edc]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco põsepuna 5 g 02 Deep Brown Orange Blush]]></Name>
-       <Code><![CDATA[who-62767]]></Code>
-       <GTIN>4019674330029</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>5.82</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-skaistalai-5-g?variant=51963643658506]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/445949_blusher_pudrova_tvarenka_5_g_l_97e43c3c-aa7b-4cc8-a4ff-37399967ec2b.jpg?v=1771594113]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-skaistalai-5-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 3 Iced Coffee]]></Name>
-       <Code><![CDATA[who-57759]]></Code>
-       <GTIN>4019674049235</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>5.43</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?variant=51963643986186]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 5 Light Whisney]]></Name>
-       <Code><![CDATA[who-57761]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>7.27</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?variant=51963644018954]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 15 Summer Apricot]]></Name>
-       <Code><![CDATA[who-57768]]></Code>
-       <GTIN>4019674492154</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>7.28</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?variant=51963644051722]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 18 Natural Apricot]]></Name>
-       <Code><![CDATA[who-57769]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>6.19</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?variant=51963644084490]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 9 Soft Cinnamon]]></Name>
-       <Code><![CDATA[who-132333]]></Code>
-       <GTIN>4019674049297</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>5.73</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?variant=51963644117258]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 11 Porcelain]]></Name>
-       <Code><![CDATA[who-132332]]></Code>
-       <GTIN>4052136031003</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>5.34</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?variant=51963644150026]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 14 Fair Vanilla]]></Name>
-       <Code><![CDATA[who-192815]]></Code>
-       <GTIN>4052136101300</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>5.56</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?variant=51963644182794]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco kulmupliiats 1,1 g 1 Black]]></Name>
-       <Code><![CDATA[who-62112]]></Code>
-       <GTIN>4019674028018</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>4.72</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-antakiu-piestukas-11-g?variant=51963644346634]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/445294_eye_brow_pencil_tuzka_na_oboci_11_g_l.jpg?v=1771594073]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-antakiu-piestukas-11-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco kulmupliiats 1,1 g 2 Intense Brown]]></Name>
-       <Code><![CDATA[who-62113]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>6.24</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-antakiu-piestukas-11-g?variant=51963644379402]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/445294_eye_brow_pencil_tuzka_na_oboci_11_g_l.jpg?v=1771594073]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-antakiu-piestukas-11-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco kulmupliiats 1,1 g 4 Light Gray Brown]]></Name>
-       <Code><![CDATA[who-62115]]></Code>
-       <GTIN>4019674028049</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>4.49</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-antakiu-piestukas-11-g?variant=51963644412170]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/445294_eye_brow_pencil_tuzka_na_oboci_11_g_l.jpg?v=1771594073]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-antakiu-piestukas-11-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco kulmupuuder 0,8 g 2 Dark]]></Name>
-       <Code><![CDATA[who-62125]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>6.38</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-antakiu-pudra-08-g?variant=51963644444938]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/445307_eye_brow_powder_pudr_na_oboci_08_g_l_bf9a77d7-f5bf-43c1-8494-19ebd28648ef.jpg?v=1771594077]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-antakiu-pudra-08-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco silmameigi täitepulk 0,8 g 19 Pearly Beige Rose]]></Name>
-       <Code><![CDATA[who-62024]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>7.76</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-eye-designer-papildymas-08-g?variant=51963644510474]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/eye-refill-shadow_l.jpg?v=1760764002]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-eye-designer-papildymas-08-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kosmetika]]></Category>
-       <Vendor><![CDATA[Artdeco]]></Vendor>
-       <Name><![CDATA[Artdeco silmameigi täitepulk 0,8 g 49 Shiny Moss Green]]></Name>
-       <Code><![CDATA[who-62036]]></Code>
-       <GTIN>4019674027493</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>5.26</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/artdeco-eye-designer-papildymas-08-g?variant=51963644543242]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/eye-refill-shadow_l.jpg?v=1760764002]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/artdeco-eye-designer-papildymas-08-g]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitchi autentne hetk EDT 30ml]]></Name>
-       <Code><![CDATA[who-180561]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>19.13</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-authentic-moment-edt?variant=51963701133578]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/537723_authentic_moment_edt_l.jpg?v=1760742867]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-authentic-moment-edt]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Standard package]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitchi autentne hetk tema EDP-le 100ml]]></Name>
-       <Code><![CDATA[who-180564]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>28.47</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-authentic-moment-for-her-edp?variant=51963701264650]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/537724_authentic_moment_for_her_edp_l_397182d5-9a4f-4335-a45c-43f80707676e.jpg?v=1771855024]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-authentic-moment-for-her-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitch Authentic Night Woman EDP 100ml]]></Name>
-       <Code><![CDATA[who-142762]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>32.28</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-authentic-night-woman-edp?variant=51963701362954]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/507413_authentic_night_woman_edp_l_361637f5-856e-4678-ae61-abcedc2b7acc.jpg?v=1772700590]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-authentic-night-woman-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitch Away Tonight Man EDT 100ml]]></Name>
-       <Code><![CDATA[who-194297]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>27.95</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-away-tonight-man-edt?variant=51963701952778]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/547346_away_tonight_man_edt_l_c304c7e0-710a-4342-852b-578f3aa5723c.jpg?v=1771593242]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-away-tonight-man-edt]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitch Away Tonight Woman EDP parfüümvesi naistele 100ml]]></Name>
-       <Code><![CDATA[who-206509]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>24.07</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-away-tonight-woman-edp?variant=51963702116618]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/552191_away_tonight_woman_edp_l_ec5730ca-f90d-4dba-bd6b-c689e4749fa1.jpg?v=1771593245]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-away-tonight-woman-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitch Away Weekend meeste EDT 100ml]]></Name>
-       <Code><![CDATA[who-196054]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>22.37</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-away-weekend-men-edt?variant=51963702214922]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/548416_away_weekend_men_edt_l_007fd89f-be5b-4772-88d2-697be931e57f.jpg?v=1771593246]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-away-weekend-men-edt]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitch Away Weekend Woman EDP parfüümvesi naistele 100ml]]></Name>
-       <Code><![CDATA[who-196052]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>30.36</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-away-weekend-woman-edp?variant=51963702313226]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/548415_away_weekend_woman_edp_l_e713ae48-89e8-4fa4-967e-0ccac9f87626.jpg?v=1771593248]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-away-weekend-woman-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitch First Instinct Blue for Her EDP parfüümvesi naistele 100ml]]></Name>
-       <Code><![CDATA[who-111080]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>21.04</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-blue-for-her-edp?variant=51963702575370]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/484440_first_instinct_blue_for_her_edp_l_b21bacae-d51e-4e07-998b-c00f8f8857f9.jpg?v=1771593254]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-blue-for-her-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitch First Instinct EDP parfüümvesi naistele 100ml]]></Name>
-       <Code><![CDATA[who-109629]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>29.11</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-edp?variant=51963702673674]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/483330_first_instinct_edp_l_d9fece9b-0101-4101-b9aa-01da81d6e086.jpg?v=1771593256]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitch First Instinct EDT 30ml]]></Name>
-       <Code><![CDATA[who-90516]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>11.67</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-edt?variant=51963702771978]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/464554_first_instinct_edt_l_c68fe6fe-1c7e-4458-8232-cc537f36bb44.jpg?v=1771593257]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-edt]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitch First Instinct for Her EDP parfüümvesi naistele 30ml]]></Name>
-       <Code><![CDATA[who-99688]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>27.30</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-for-her-edp?variant=51963702870282]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/474674_first_instinct_for_her_edp_l.jpg?v=1760742914]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-for-her-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitch First Instinct Sheer EDP parfüümvesi naistele 100ml]]></Name>
-       <Code><![CDATA[who-122866]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>22.89</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-sheer-edp?variant=51963702935818]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/493291_first_instinct_sheer_edp_l_299ea2ba-226f-439d-8124-98315ec6744e.jpg?v=1771593259]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-sheer-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitch First Instinct koos tema EDP-ga 100ml]]></Name>
-       <Code><![CDATA[who-135770]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>23.10</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-together-for-her-edp?variant=51963703066890]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/496462_first_instinct_together_for_her_edp_l_6602bd39-3fbb-472e-a8d7-1dea6236a155.jpg?v=1771593261]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-together-for-her-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
-       <Name><![CDATA[Abercrombie &amp; Fitch Naturally Fierce EDP 100ml]]></Name>
-       <Code><![CDATA[who-154302]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>18.14</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-naturally-fierce-edp?variant=51963703197962]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/517460_naturally_fierce_edp_l_e9c7262f-b524-4b7e-8f5a-e5ceb2a4daa5.jpg?v=1771593262]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/abercrombie-fitch-naturally-fierce-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua Dell Elba]]></Vendor>
-       <Name><![CDATA[Acqua Dell Elba Altrove Uomo EDP 100ml]]></Name>
-       <Code><![CDATA[who-217950]]></Code>
-       <GTIN>8032758533082</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>92.98</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-dell-elba-altrove-uomo-edp?variant=51963703492874]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/563032_altrove_uomo_edp_l.jpg?v=1760742931]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-dell-elba-altrove-uomo-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Acqua Di Parma Blu Mediterraneo Mirto di Panarea EDT 100ml]]></Name>
-       <Code><![CDATA[who-206216]]></Code>
-       <GTIN>8028713816666</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>56.12</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-acqua-di-parma-blu-mediterraneo-mirto-di-panarea-edt?variant=51963703689482]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/410481_blu_mediterraneo_mirto_di_panarea_edt_l_a3234c28-2f62-4795-913b-11245e58979e.jpg?v=1771593292]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-acqua-di-parma-blu-mediterraneo-mirto-di-panarea-edt]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Amber EDP parfüümvesi 100ml]]></Name>
-       <Code><![CDATA[who-172999]]></Code>
-       <GTIN>8028713810718</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>117.69</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-amber-edp?variant=51963703886090]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/531729_ambra_edp_l_ccce3d6c-f976-4269-91e6-4b3f71687be4.jpg?v=1771593294]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-amber-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Blu Mediterraneo – Arancia Di Capri EDT 100ml]]></Name>
-       <Code><![CDATA[who-207291]]></Code>
-       <GTIN>8028713816604</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>77.65</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-blu-mediterraneo-arancia-di-capri-edt?variant=51963704181002]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/425607_blu_mediterraneo_arancia_di_capri_edt_l_6ec95b3f-016e-4ffc-b5b3-9fbbd51dfa15.jpg?v=1771593296]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-blu-mediterraneo-arancia-di-capri-edt]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Blu Mediterraneo – Bergamotto Di Calabria EDT 100ml]]></Name>
-       <Code><![CDATA[who-176957]]></Code>
-       <GTIN>8028713816628</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>94.78</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-blu-mediterraneo-bergamotto-di-calabria-edt?variant=51963704410378]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/425610_blu_mediterraneo_bergamotto_di_calabria_edt_l_7630da9c-2fe2-40ec-aa67-c457fa2f7625.jpg?v=1771593298]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-blu-mediterraneo-bergamotto-di-calabria-edt]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Blu Mediterraneo – Fico di Amalfi EDT 150ml]]></Name>
-       <Code><![CDATA[who-50308]]></Code>
-       <GTIN>8028713570063</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>81.45</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-blu-mediterraneo-fico-di-amalfi-edt?variant=51963704934666]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/419665_blu_mediterraneo_fico_di_amalfi_edt_l_52ee0010-dc64-4e5e-87b4-fd6014af0389.jpg?v=1771593299]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-blu-mediterraneo-fico-di-amalfi-edt]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Blu Mediterraneo – Mirorla di Sicilia EDT 100ml]]></Name>
-       <Code><![CDATA[who-210963]]></Code>
-       <GTIN>8028713816680</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>93.85</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-blu-mediterraneo-mirorla-di-sicilia-edt?variant=51963705065738]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/401475_blu_mediterraneo_mandorlo_di_sicilia_edt_l.jpg?v=1760742982]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-blu-mediterraneo-mirorla-di-sicilia-edt]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Buongiorno Cirle 28.0g]]></Name>
-       <Code><![CDATA[who-202215]]></Code>
-       <GTIN>8028713620294</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>26.12</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-buongiorno-cirle?variant=51963705524490]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/531733_buongiorno_svicka_l.jpg?v=1760742993]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-buongiorno-cirle]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Colonia CLUB EDC 180ml]]></Name>
-       <Code><![CDATA[who-190160]]></Code>
-       <GTIN>8028713150036</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>97.78</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-club-edc?variant=51963705721098]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/539803_colonia_club_edc_l.jpg?v=1760743000]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-club-edc]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Colonia CLUB EDC 50ml]]></Name>
-       <Code><![CDATA[who-187743]]></Code>
-       <GTIN>8028713150012</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>60.88</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-club-edc?variant=51963705753866]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/539803_colonia_club_edc_l.jpg?v=1760743000]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-club-edc]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Colonia EDC 100ml]]></Name>
-       <Code><![CDATA[who-8492]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>79.49</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-edc?variant=51963705983242]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/120219_colonia_edc_l_c2b1a87c-2944-4a1e-8664-cffd9be2fce7.jpg?v=1772700652]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-edc]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Colonia Futura EDC 100ml]]></Name>
-       <Code><![CDATA[who-138064]]></Code>
-       <GTIN>8028713280023</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>80.33</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-futura-edc?variant=51963706147082]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/503827_colonia_futura_edc_l_ee2f3de5-63f5-4b19-b17e-af55a1a5bb7f.jpg?v=1771593306]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-futura-edc]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Colonia Intensa EDC 100ml]]></Name>
-       <Code><![CDATA[who-39182]]></Code>
-       <GTIN>8028713210020</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>76.40</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-intensa-edc?variant=51963706376458]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/423335_colonia_intensa_edc_l_81f6a190-0dcb-4e55-adb8-6dbcd353e0c0.jpg?v=1771593308]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-intensa-edc]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Colonia Pura EDC 100ml]]></Name>
-       <Code><![CDATA[who-116236]]></Code>
-       <GTIN>8028713270024</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>74.72</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-pura-edc?variant=51963706474762]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/488449_colonia_pura_edc_l_a2375c00-af82-4d0e-ae28-266066999754.jpg?v=1771593310]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-pura-edc]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Essenza EDC 100ml]]></Name>
-       <Code><![CDATA[who-73926]]></Code>
-       <GTIN>8028713220029</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>76.81</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-essenza-edc?variant=51963706605834]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/425611_colonia_essenza_edc_l_6d04a2d3-b0f1-44a6-967e-aa75cf6b2618.jpg?v=1771593312]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-essenza-edc]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma maikelluke EDP 100ml]]></Name>
-       <Code><![CDATA[who-164538]]></Code>
-       <GTIN>8028713811210</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>67.78</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-lily-of-the-valley-edp?variant=51963706802442]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/525204_lily_of_the_valley_edp_l_ee26b854-9917-4470-999b-4861a1b3f9fe.jpg?v=1771593314]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-lily-of-the-valley-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Luce Di Rosa EDP 100ml]]></Name>
-       <Code><![CDATA[who-212383]]></Code>
-       <GTIN>8028713819209</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>159.86</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-luce-di-rosa-edp?variant=51963706900746]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/559327_luce_di_rosa_edp_l_69b3042c-1c4c-4eb0-b1a4-e76c705589d0.jpg?v=1771593316]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-luce-di-rosa-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Osmanthus EDP 100ml]]></Name>
-       <Code><![CDATA[who-163731]]></Code>
-       <GTIN>8028713810015</GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>140.16</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-osmanthus-edp?variant=51963707392266]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/521496_osmanthus_edp_l_c5068ab4-a0b7-49d9-a3c5-60349fc74b1c.jpg?v=1771593319]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-osmanthus-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[Standard package]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Oud &amp; Spice EDP 100ml]]></Name>
-       <Code><![CDATA[who-163706]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>125.76</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-oud-spice-edp?variant=51963707588874]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/524506_oud_spice_edp_l_5bfa36c3-c95e-4451-b8ae-8eaac01beea3.jpg?v=1771855047]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-oud-spice-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
-   <Product>
-       <Category><![CDATA[kvepalai]]></Category>
-       <Vendor><![CDATA[Acqua di Parma]]></Vendor>
-       <Name><![CDATA[Acqua di Parma Oud EDP 100ml]]></Name>
-       <Code><![CDATA[who-159566]]></Code>
-       <GTIN></GTIN>
-       <Description><![CDATA[]]></Description>
-       <Price>135.78</Price>
-       <InStore>Kohal</InStore>
-       <URL><![CDATA[https://glamur.ee/products/acqua-di-parma-oud-edp?variant=51963707687178]]></URL>
-       <AdditionalInfo>Tasuta transport alates 59€</AdditionalInfo>
-       <Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/521497_oud_edp_l_37ea8080-42d2-44dd-8381-44912bd5b33e.jpg?v=1772700663]]></Picture>
-       <ProductURL><![CDATA[https://glamur.ee/products/acqua-di-parma-oud-edp]]></ProductURL>
-       <Payment6></Payment6>
-       <Payment12></Payment12>
-       <Payment24></Payment24>
-       <Payment36></Payment36>
-       <Payment48></Payment48>
-   </Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[4711]]></Vendor>
+<Name><![CDATA[4711 Acqua Colonia Starfruit &amp; White Flowers EDC 100ml]]></Name>
+<Code><![CDATA[who-228023]]></Code>
+<GTIN>4011700748730</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>23.36</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/4711-acqua-colonia-starfruit-white-flowers-edc?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/541131_acqua_colonia_starfruit_white_flowers_edc_l_d59c01a9-296c-440f-9ce3-c314d9d0f590.jpg?v=1771593210]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/4711]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kvepalai]]></Category>
+<Vendor><![CDATA[4711]]></Vendor>
+<Name><![CDATA[4711 Acqua Colonia Yuzu &amp; Cedarwood EDC 100ml]]></Name>
+<Code><![CDATA[who-221805]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>28.31</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/4711-acqua-colonia-yuzu-cedarwood-edc?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/565770_acqua_colonia_yuzu_cedarwood_edc_l_864a411a-1265-4e95-9a24-149db0c67032.jpg?v=1772700582]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/4711]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco põsepuna 5 g 02 Deep Brown Orange Blush]]></Name>
+<Code><![CDATA[who-62767]]></Code>
+<GTIN>4019674330029</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>5.82</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-skaistalai-5-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/445949_blusher_pudrova_tvarenka_5_g_l_97e43c3c-aa7b-4cc8-a4ff-37399967ec2b.jpg?v=1771594113]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 3 Iced Coffee]]></Name>
+<Code><![CDATA[who-57759]]></Code>
+<GTIN>4019674049235</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>5.43</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 5 Light Whisney]]></Name>
+<Code><![CDATA[who-57761]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>5.89</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 15 Summer Apricot]]></Name>
+<Code><![CDATA[who-57768]]></Code>
+<GTIN>4019674492154</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>5.89</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 18 Natural Apricot]]></Name>
+<Code><![CDATA[who-57769]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>6.19</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 9 Soft Cinnamon]]></Name>
+<Code><![CDATA[who-132333]]></Code>
+<GTIN>4019674049297</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>5.73</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 11 Porcelain]]></Name>
+<Code><![CDATA[who-132332]]></Code>
+<GTIN>4052136031003</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>5.34</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 14 Fair Vanilla]]></Name>
+<Code><![CDATA[who-192815]]></Code>
+<GTIN>4052136101300</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>5.56</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-kamufliazinis-kremas-45-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/korektor-camouflage-cream_l.jpg?v=1760763989]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco kulmupliiats 1,1 g 1 Black]]></Name>
+<Code><![CDATA[who-62112]]></Code>
+<GTIN>4019674028018</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>4.72</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-antakiu-piestukas-11-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/445294_eye_brow_pencil_tuzka_na_oboci_11_g_l.jpg?v=1771594073]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco kulmupliiats 1,1 g 2 Intense Brown]]></Name>
+<Code><![CDATA[who-62113]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>6.24</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-antakiu-piestukas-11-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/445294_eye_brow_pencil_tuzka_na_oboci_11_g_l.jpg?v=1771594073]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco kulmupliiats 1,1 g 4 Light Gray Brown]]></Name>
+<Code><![CDATA[who-62115]]></Code>
+<GTIN>4019674028049</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>4.49</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-antakiu-piestukas-11-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/445294_eye_brow_pencil_tuzka_na_oboci_11_g_l.jpg?v=1771594073]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Dekoratyvinė kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco kulmupuuder 0,8 g 2 Dark]]></Name>
+<Code><![CDATA[who-62125]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>6.38</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-antakiu-pudra-08-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/445307_eye_brow_powder_pudr_na_oboci_08_g_l_bf9a77d7-f5bf-43c1-8494-19ebd28648ef.jpg?v=1771594077]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco silmameigi täitepulk 0,8 g 19 Pearly Beige Rose]]></Name>
+<Code><![CDATA[who-62024]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>7.76</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-eye-designer-papildymas-08-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/eye-refill-shadow_l.jpg?v=1760764002]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kosmetika]]></Category>
+<Vendor><![CDATA[Artdeco]]></Vendor>
+<Name><![CDATA[Artdeco silmameigi täitepulk 0,8 g 49 Shiny Moss Green]]></Name>
+<Code><![CDATA[who-62036]]></Code>
+<GTIN>4019674027493</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>5.26</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/artdeco-eye-designer-papildymas-08-g?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/eye-refill-shadow_l.jpg?v=1760764002]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/artdeco]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitchi autentne hetk EDT 30ml]]></Name>
+<Code><![CDATA[who-180561]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>19.13</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-authentic-moment-edt?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/537723_authentic_moment_edt_l.jpg?v=1760742867]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Standard package]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitchi autentne hetk tema EDP-le 100ml]]></Name>
+<Code><![CDATA[who-180564]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>28.47</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-authentic-moment-for-her-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/537724_authentic_moment_for_her_edp_l_397182d5-9a4f-4335-a45c-43f80707676e.jpg?v=1771855024]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitch Authentic Night Woman EDP 100ml]]></Name>
+<Code><![CDATA[who-142762]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>32.28</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-authentic-night-woman-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/507413_authentic_night_woman_edp_l_361637f5-856e-4678-ae61-abcedc2b7acc.jpg?v=1772700590]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitch Away Tonight Man EDT 100ml]]></Name>
+<Code><![CDATA[who-194297]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>27.95</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-away-tonight-man-edt?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/547346_away_tonight_man_edt_l_c304c7e0-710a-4342-852b-578f3aa5723c.jpg?v=1771593242]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitch Away Tonight Woman EDP parfüümvesi naistele 100ml]]></Name>
+<Code><![CDATA[who-206509]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>24.07</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-away-tonight-woman-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/552191_away_tonight_woman_edp_l_ec5730ca-f90d-4dba-bd6b-c689e4749fa1.jpg?v=1771593245]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitch Away Weekend meeste EDT 100ml]]></Name>
+<Code><![CDATA[who-196054]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>22.37</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-away-weekend-men-edt?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/548416_away_weekend_men_edt_l_007fd89f-be5b-4772-88d2-697be931e57f.jpg?v=1771593246]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitch Away Weekend Woman EDP parfüümvesi naistele 100ml]]></Name>
+<Code><![CDATA[who-196052]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>30.36</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-away-weekend-woman-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/548415_away_weekend_woman_edp_l_e713ae48-89e8-4fa4-967e-0ccac9f87626.jpg?v=1771593248]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitch First Instinct Blue for Her EDP parfüümvesi naistele 100ml]]></Name>
+<Code><![CDATA[who-111080]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>21.04</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-blue-for-her-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/484440_first_instinct_blue_for_her_edp_l_b21bacae-d51e-4e07-998b-c00f8f8857f9.jpg?v=1771593254]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitch First Instinct EDP parfüümvesi naistele 100ml]]></Name>
+<Code><![CDATA[who-109629]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>29.11</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/483330_first_instinct_edp_l_d9fece9b-0101-4101-b9aa-01da81d6e086.jpg?v=1771593256]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitch First Instinct EDT 30ml]]></Name>
+<Code><![CDATA[who-90516]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>11.67</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-edt?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/464554_first_instinct_edt_l_c68fe6fe-1c7e-4458-8232-cc537f36bb44.jpg?v=1771593257]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitch First Instinct for Her EDP parfüümvesi naistele 30ml]]></Name>
+<Code><![CDATA[who-99688]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>27.30</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-for-her-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/474674_first_instinct_for_her_edp_l.jpg?v=1760742914]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitch First Instinct Sheer EDP parfüümvesi naistele 100ml]]></Name>
+<Code><![CDATA[who-122866]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>22.89</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-sheer-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/493291_first_instinct_sheer_edp_l_299ea2ba-226f-439d-8124-98315ec6744e.jpg?v=1771593259]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitch First Instinct koos tema EDP-ga 100ml]]></Name>
+<Code><![CDATA[who-135770]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>23.10</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-first-instinct-together-for-her-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/496462_first_instinct_together_for_her_edp_l_6602bd39-3fbb-472e-a8d7-1dea6236a155.jpg?v=1771593261]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
+<Name><![CDATA[Abercrombie &amp; Fitch Naturally Fierce EDP 100ml]]></Name>
+<Code><![CDATA[who-154302]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>18.14</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/abercrombie-fitch-naturally-fierce-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/517460_naturally_fierce_edp_l_e9c7262f-b524-4b7e-8f5a-e5ceb2a4daa5.jpg?v=1771593262]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/abercrombie-fitch]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kvepalai]]></Category>
+<Vendor><![CDATA[Acqua Dell Elba]]></Vendor>
+<Name><![CDATA[Acqua Dell Elba Altrove Uomo EDP 100ml]]></Name>
+<Code><![CDATA[who-217950]]></Code>
+<GTIN>8032758533082</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>92.98</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-dell-elba-altrove-uomo-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/563032_altrove_uomo_edp_l.jpg?v=1760742931]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-dell-elba]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Acqua Di Parma Blu Mediterraneo Mirto di Panarea EDT 100ml]]></Name>
+<Code><![CDATA[who-206216]]></Code>
+<GTIN>8028713816666</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>56.12</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-acqua-di-parma-blu-mediterraneo-mirto-di-panarea-edt?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/410481_blu_mediterraneo_mirto_di_panarea_edt_l_a3234c28-2f62-4795-913b-11245e58979e.jpg?v=1771593292]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Amber EDP parfüümvesi 100ml]]></Name>
+<Code><![CDATA[who-172999]]></Code>
+<GTIN>8028713810718</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>117.69</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-amber-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/531729_ambra_edp_l_ccce3d6c-f976-4269-91e6-4b3f71687be4.jpg?v=1771593294]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Blu Mediterraneo – Arancia Di Capri EDT 100ml]]></Name>
+<Code><![CDATA[who-207291]]></Code>
+<GTIN>8028713816604</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>77.65</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-blu-mediterraneo-arancia-di-capri-edt?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/425607_blu_mediterraneo_arancia_di_capri_edt_l_6ec95b3f-016e-4ffc-b5b3-9fbbd51dfa15.jpg?v=1771593296]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Blu Mediterraneo – Bergamotto Di Calabria EDT 100ml]]></Name>
+<Code><![CDATA[who-176957]]></Code>
+<GTIN>8028713816628</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>94.78</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-blu-mediterraneo-bergamotto-di-calabria-edt?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/425610_blu_mediterraneo_bergamotto_di_calabria_edt_l_7630da9c-2fe2-40ec-aa67-c457fa2f7625.jpg?v=1771593298]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Blu Mediterraneo – Fico di Amalfi EDT 150ml]]></Name>
+<Code><![CDATA[who-50308]]></Code>
+<GTIN>8028713570063</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>81.45</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-blu-mediterraneo-fico-di-amalfi-edt?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/419665_blu_mediterraneo_fico_di_amalfi_edt_l_52ee0010-dc64-4e5e-87b4-fd6014af0389.jpg?v=1771593299]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Blu Mediterraneo – Mirorla di Sicilia EDT 100ml]]></Name>
+<Code><![CDATA[who-210963]]></Code>
+<GTIN>8028713816680</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>93.85</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-blu-mediterraneo-mirorla-di-sicilia-edt?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/401475_blu_mediterraneo_mandorlo_di_sicilia_edt_l.jpg?v=1760742982]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Buongiorno Cirle 28.0g]]></Name>
+<Code><![CDATA[who-202215]]></Code>
+<GTIN>8028713620294</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>26.12</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-buongiorno-cirle?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/531733_buongiorno_svicka_l.jpg?v=1760742993]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Colonia CLUB EDC 180ml]]></Name>
+<Code><![CDATA[who-190160]]></Code>
+<GTIN>8028713150036</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>97.78</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-club-edc?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/539803_colonia_club_edc_l.jpg?v=1760743000]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Colonia CLUB EDC 50ml]]></Name>
+<Code><![CDATA[who-187743]]></Code>
+<GTIN>8028713150012</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>60.88</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-club-edc?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/539803_colonia_club_edc_l.jpg?v=1760743000]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Colonia EDC 100ml]]></Name>
+<Code><![CDATA[who-8492]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>79.49</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-edc?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/120219_colonia_edc_l_c2b1a87c-2944-4a1e-8664-cffd9be2fce7.jpg?v=1772700652]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Colonia Futura EDC 100ml]]></Name>
+<Code><![CDATA[who-138064]]></Code>
+<GTIN>8028713280023</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>80.33</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-futura-edc?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/503827_colonia_futura_edc_l_ee2f3de5-63f5-4b19-b17e-af55a1a5bb7f.jpg?v=1771593306]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Colonia Intensa EDC 100ml]]></Name>
+<Code><![CDATA[who-39182]]></Code>
+<GTIN>8028713210020</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>76.40</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-intensa-edc?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/423335_colonia_intensa_edc_l_81f6a190-0dcb-4e55-adb8-6dbcd353e0c0.jpg?v=1771593308]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Colonia Pura EDC 100ml]]></Name>
+<Code><![CDATA[who-116236]]></Code>
+<GTIN>8028713270024</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>74.72</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-colonia-pura-edc?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/488449_colonia_pura_edc_l_a2375c00-af82-4d0e-ae28-266066999754.jpg?v=1771593310]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Essenza EDC 100ml]]></Name>
+<Code><![CDATA[who-73926]]></Code>
+<GTIN>8028713220029</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>76.81</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-essenza-edc?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/425611_colonia_essenza_edc_l_6d04a2d3-b0f1-44a6-967e-aa75cf6b2618.jpg?v=1771593312]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma maikelluke EDP 100ml]]></Name>
+<Code><![CDATA[who-164538]]></Code>
+<GTIN>8028713811210</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>67.78</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-lily-of-the-valley-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/525204_lily_of_the_valley_edp_l_ee26b854-9917-4470-999b-4861a1b3f9fe.jpg?v=1771593314]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Luce Di Rosa EDP 100ml]]></Name>
+<Code><![CDATA[who-212383]]></Code>
+<GTIN>8028713819209</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>159.86</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-luce-di-rosa-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/559327_luce_di_rosa_edp_l_69b3042c-1c4c-4eb0-b1a4-e76c705589d0.jpg?v=1771593316]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Osmanthus EDP 100ml]]></Name>
+<Code><![CDATA[who-163731]]></Code>
+<GTIN>8028713810015</GTIN>
+<Description><![CDATA[]]></Description>
+<Price>140.16</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-osmanthus-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/521496_osmanthus_edp_l_c5068ab4-a0b7-49d9-a3c5-60349fc74b1c.jpg?v=1771593319]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[Standard package]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Oud &amp; Spice EDP 100ml]]></Name>
+<Code><![CDATA[who-163706]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>125.76</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-oud-spice-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/524506_oud_spice_edp_l_5bfa36c3-c95e-4451-b8ae-8eaac01beea3.jpg?v=1771855047]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
+<Product>
+<Category><![CDATA[kvepalai]]></Category>
+<Vendor><![CDATA[Acqua di Parma]]></Vendor>
+<Name><![CDATA[Acqua di Parma Oud EDP 100ml]]></Name>
+<Code><![CDATA[who-159566]]></Code>
+<GTIN></GTIN>
+<Description><![CDATA[]]></Description>
+<Price>135.78</Price>
+<InStore>5-10 tp</InStore>
+<URL><![CDATA[https://glamur.ee/products/acqua-di-parma-oud-edp?utm_source=hinnavaatlus]]></URL>
+<AdditionalInfo></AdditionalInfo>
+<Picture><![CDATA[https://cdn.shopify.com/s/files/1/0864/5161/8058/files/521497_oud_edp_l_37ea8080-42d2-44dd-8381-44912bd5b33e.jpg?v=1772700663]]></Picture>
+<ProductURL><![CDATA[https://glamur.ee/collections/acqua-di-parma]]></ProductURL>
+<Payment6></Payment6>
+<Payment12></Payment12>
+<Payment24></Payment24>
+<Payment36></Payment36>
+<Payment48></Payment48>
+</Product>
 </Pricelist>
