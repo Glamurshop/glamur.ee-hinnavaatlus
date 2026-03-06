@@ -5,7 +5,7 @@
        <Vendor><![CDATA[4711]]></Vendor>
        <Name><![CDATA[4711 Acqua Colonia Starfruit &amp; White Flowers EDC 100ml]]></Name>
        <Code><![CDATA[who-228023]]></Code>
-       <GTIN><![CDATA[4011700748730]]></GTIN>
+       <GTIN>4011700748730</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>23.36</Price>
        <InStore>Kohal</InStore>
@@ -24,7 +24,7 @@
        <Vendor><![CDATA[4711]]></Vendor>
        <Name><![CDATA[4711 Acqua Colonia Yuzu &amp; Cedarwood EDC 100ml]]></Name>
        <Code><![CDATA[who-221805]]></Code>
-       <GTIN><![CDATA[None]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>28.31</Price>
        <InStore>Kohal</InStore>
@@ -43,7 +43,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco põsepuna 5 g 02 Deep Brown Orange Blush]]></Name>
        <Code><![CDATA[who-62767]]></Code>
-       <GTIN><![CDATA[4019674330029]]></GTIN>
+       <GTIN>4019674330029</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>5.82</Price>
        <InStore>Kohal</InStore>
@@ -62,7 +62,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 3 Iced Coffee]]></Name>
        <Code><![CDATA[who-57759]]></Code>
-       <GTIN><![CDATA[4019674049235]]></GTIN>
+       <GTIN>4019674049235</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>5.43</Price>
        <InStore>Kohal</InStore>
@@ -81,7 +81,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 5 Light Whisney]]></Name>
        <Code><![CDATA[who-57761]]></Code>
-       <GTIN><![CDATA[0]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>7.27</Price>
        <InStore>Kohal</InStore>
@@ -100,7 +100,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 15 Summer Apricot]]></Name>
        <Code><![CDATA[who-57768]]></Code>
-       <GTIN><![CDATA[4019674492154]]></GTIN>
+       <GTIN>4019674492154</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>7.28</Price>
        <InStore>Kohal</InStore>
@@ -119,7 +119,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 18 Natural Apricot]]></Name>
        <Code><![CDATA[who-57769]]></Code>
-       <GTIN><![CDATA[0]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>6.19</Price>
        <InStore>Kohal</InStore>
@@ -138,7 +138,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 9 Soft Cinnamon]]></Name>
        <Code><![CDATA[who-132333]]></Code>
-       <GTIN><![CDATA[4019674049297]]></GTIN>
+       <GTIN>4019674049297</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>5.73</Price>
        <InStore>Kohal</InStore>
@@ -157,7 +157,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 11 Porcelain]]></Name>
        <Code><![CDATA[who-132332]]></Code>
-       <GTIN><![CDATA[4052136031003]]></GTIN>
+       <GTIN>4052136031003</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>5.34</Price>
        <InStore>Kohal</InStore>
@@ -176,7 +176,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco kamuflaažkreem 4,5 g 14 Fair Vanilla]]></Name>
        <Code><![CDATA[who-192815]]></Code>
-       <GTIN><![CDATA[4052136101300]]></GTIN>
+       <GTIN>4052136101300</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>5.56</Price>
        <InStore>Kohal</InStore>
@@ -195,7 +195,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco kulmupliiats 1,1 g 1 Black]]></Name>
        <Code><![CDATA[who-62112]]></Code>
-       <GTIN><![CDATA[4019674028018]]></GTIN>
+       <GTIN>4019674028018</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>4.72</Price>
        <InStore>Kohal</InStore>
@@ -214,7 +214,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco kulmupliiats 1,1 g 2 Intense Brown]]></Name>
        <Code><![CDATA[who-62113]]></Code>
-       <GTIN><![CDATA[0]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>6.24</Price>
        <InStore>Kohal</InStore>
@@ -233,7 +233,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco kulmupliiats 1,1 g 4 Light Gray Brown]]></Name>
        <Code><![CDATA[who-62115]]></Code>
-       <GTIN><![CDATA[4019674028049]]></GTIN>
+       <GTIN>4019674028049</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>4.49</Price>
        <InStore>Kohal</InStore>
@@ -252,7 +252,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco kulmupuuder 0,8 g 2 Dark]]></Name>
        <Code><![CDATA[who-62125]]></Code>
-       <GTIN><![CDATA[0]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>6.38</Price>
        <InStore>Kohal</InStore>
@@ -271,7 +271,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco silmameigi täitepulk 0,8 g 19 Pearly Beige Rose]]></Name>
        <Code><![CDATA[who-62024]]></Code>
-       <GTIN><![CDATA[0]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>7.76</Price>
        <InStore>Kohal</InStore>
@@ -290,7 +290,7 @@
        <Vendor><![CDATA[Artdeco]]></Vendor>
        <Name><![CDATA[Artdeco silmameigi täitepulk 0,8 g 49 Shiny Moss Green]]></Name>
        <Code><![CDATA[who-62036]]></Code>
-       <GTIN><![CDATA[4019674027493]]></GTIN>
+       <GTIN>4019674027493</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>5.26</Price>
        <InStore>Kohal</InStore>
@@ -309,7 +309,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitchi autentne hetk EDT 30ml]]></Name>
        <Code><![CDATA[who-180561]]></Code>
-       <GTIN><![CDATA[85715169501]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>19.13</Price>
        <InStore>Kohal</InStore>
@@ -328,7 +328,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitchi autentne hetk tema EDP-le 100ml]]></Name>
        <Code><![CDATA[who-180564]]></Code>
-       <GTIN><![CDATA[None]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>28.47</Price>
        <InStore>Kohal</InStore>
@@ -347,7 +347,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitch Authentic Night Woman EDP 100ml]]></Name>
        <Code><![CDATA[who-142762]]></Code>
-       <GTIN><![CDATA[None]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>32.28</Price>
        <InStore>Kohal</InStore>
@@ -366,7 +366,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitch Away Tonight Man EDT 100ml]]></Name>
        <Code><![CDATA[who-194297]]></Code>
-       <GTIN><![CDATA[85715169303]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>27.95</Price>
        <InStore>Kohal</InStore>
@@ -385,7 +385,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitch Away Tonight Woman EDP parfüümvesi naistele 100ml]]></Name>
        <Code><![CDATA[who-206509]]></Code>
-       <GTIN><![CDATA[85715169907]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>24.07</Price>
        <InStore>Kohal</InStore>
@@ -404,7 +404,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitch Away Weekend meeste EDT 100ml]]></Name>
        <Code><![CDATA[who-196054]]></Code>
-       <GTIN><![CDATA[85715169402]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>22.37</Price>
        <InStore>Kohal</InStore>
@@ -423,7 +423,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitch Away Weekend Woman EDP parfüümvesi naistele 100ml]]></Name>
        <Code><![CDATA[who-196052]]></Code>
-       <GTIN><![CDATA[85715169952]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>30.36</Price>
        <InStore>Kohal</InStore>
@@ -442,7 +442,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitch First Instinct Blue for Her EDP parfüümvesi naistele 100ml]]></Name>
        <Code><![CDATA[who-111080]]></Code>
-       <GTIN><![CDATA[85715167224]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>21.04</Price>
        <InStore>Kohal</InStore>
@@ -461,7 +461,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitch First Instinct EDP parfüümvesi naistele 100ml]]></Name>
        <Code><![CDATA[who-109629]]></Code>
-       <GTIN><![CDATA[85715167507]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>29.11</Price>
        <InStore>Kohal</InStore>
@@ -480,7 +480,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitch First Instinct EDT 30ml]]></Name>
        <Code><![CDATA[who-90516]]></Code>
-       <GTIN><![CDATA[85715163134]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>11.67</Price>
        <InStore>Kohal</InStore>
@@ -499,7 +499,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitch First Instinct for Her EDP parfüümvesi naistele 30ml]]></Name>
        <Code><![CDATA[who-99688]]></Code>
-       <GTIN><![CDATA[85715163189]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>27.30</Price>
        <InStore>Kohal</InStore>
@@ -518,7 +518,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitch First Instinct Sheer EDP parfüümvesi naistele 100ml]]></Name>
        <Code><![CDATA[who-122866]]></Code>
-       <GTIN><![CDATA[85715167613]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>22.89</Price>
        <InStore>Kohal</InStore>
@@ -537,7 +537,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitch First Instinct koos tema EDP-ga 100ml]]></Name>
        <Code><![CDATA[who-135770]]></Code>
-       <GTIN><![CDATA[85715167583]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>23.10</Price>
        <InStore>Kohal</InStore>
@@ -556,7 +556,7 @@
        <Vendor><![CDATA[Abercrombie & Fitch]]></Vendor>
        <Name><![CDATA[Abercrombie &amp; Fitch Naturally Fierce EDP 100ml]]></Name>
        <Code><![CDATA[who-154302]]></Code>
-       <GTIN><![CDATA[85715167811]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>18.14</Price>
        <InStore>Kohal</InStore>
@@ -575,7 +575,7 @@
        <Vendor><![CDATA[Acqua Dell Elba]]></Vendor>
        <Name><![CDATA[Acqua Dell Elba Altrove Uomo EDP 100ml]]></Name>
        <Code><![CDATA[who-217950]]></Code>
-       <GTIN><![CDATA[8032758533082]]></GTIN>
+       <GTIN>8032758533082</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>92.98</Price>
        <InStore>Kohal</InStore>
@@ -594,7 +594,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Acqua Di Parma Blu Mediterraneo Mirto di Panarea EDT 100ml]]></Name>
        <Code><![CDATA[who-206216]]></Code>
-       <GTIN><![CDATA[8028713816666]]></GTIN>
+       <GTIN>8028713816666</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>56.12</Price>
        <InStore>Kohal</InStore>
@@ -613,7 +613,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Amber EDP parfüümvesi 100ml]]></Name>
        <Code><![CDATA[who-172999]]></Code>
-       <GTIN><![CDATA[8028713810718]]></GTIN>
+       <GTIN>8028713810718</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>117.69</Price>
        <InStore>Kohal</InStore>
@@ -632,7 +632,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Blu Mediterraneo – Arancia Di Capri EDT 100ml]]></Name>
        <Code><![CDATA[who-207291]]></Code>
-       <GTIN><![CDATA[8028713816604]]></GTIN>
+       <GTIN>8028713816604</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>77.65</Price>
        <InStore>Kohal</InStore>
@@ -651,7 +651,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Blu Mediterraneo – Bergamotto Di Calabria EDT 100ml]]></Name>
        <Code><![CDATA[who-176957]]></Code>
-       <GTIN><![CDATA[8028713816628]]></GTIN>
+       <GTIN>8028713816628</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>94.78</Price>
        <InStore>Kohal</InStore>
@@ -670,7 +670,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Blu Mediterraneo – Fico di Amalfi EDT 150ml]]></Name>
        <Code><![CDATA[who-50308]]></Code>
-       <GTIN><![CDATA[8028713570063]]></GTIN>
+       <GTIN>8028713570063</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>81.45</Price>
        <InStore>Kohal</InStore>
@@ -689,7 +689,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Blu Mediterraneo – Mirorla di Sicilia EDT 100ml]]></Name>
        <Code><![CDATA[who-210963]]></Code>
-       <GTIN><![CDATA[8028713816680]]></GTIN>
+       <GTIN>8028713816680</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>93.85</Price>
        <InStore>Kohal</InStore>
@@ -708,7 +708,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Buongiorno Cirle 28.0g]]></Name>
        <Code><![CDATA[who-202215]]></Code>
-       <GTIN><![CDATA[8028713620294]]></GTIN>
+       <GTIN>8028713620294</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>26.12</Price>
        <InStore>Kohal</InStore>
@@ -727,7 +727,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Colonia CLUB EDC 180ml]]></Name>
        <Code><![CDATA[who-190160]]></Code>
-       <GTIN><![CDATA[8028713150036]]></GTIN>
+       <GTIN>8028713150036</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>97.78</Price>
        <InStore>Kohal</InStore>
@@ -746,7 +746,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Colonia CLUB EDC 50ml]]></Name>
        <Code><![CDATA[who-187743]]></Code>
-       <GTIN><![CDATA[8028713150012]]></GTIN>
+       <GTIN>8028713150012</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>60.88</Price>
        <InStore>Kohal</InStore>
@@ -765,7 +765,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Colonia EDC 100ml]]></Name>
        <Code><![CDATA[who-8492]]></Code>
-       <GTIN><![CDATA[None]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>79.49</Price>
        <InStore>Kohal</InStore>
@@ -784,7 +784,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Colonia Futura EDC 100ml]]></Name>
        <Code><![CDATA[who-138064]]></Code>
-       <GTIN><![CDATA[8028713280023]]></GTIN>
+       <GTIN>8028713280023</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>80.33</Price>
        <InStore>Kohal</InStore>
@@ -803,7 +803,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Colonia Intensa EDC 100ml]]></Name>
        <Code><![CDATA[who-39182]]></Code>
-       <GTIN><![CDATA[8028713210020]]></GTIN>
+       <GTIN>8028713210020</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>76.40</Price>
        <InStore>Kohal</InStore>
@@ -822,7 +822,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Colonia Pura EDC 100ml]]></Name>
        <Code><![CDATA[who-116236]]></Code>
-       <GTIN><![CDATA[8028713270024]]></GTIN>
+       <GTIN>8028713270024</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>74.72</Price>
        <InStore>Kohal</InStore>
@@ -841,7 +841,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Essenza EDC 100ml]]></Name>
        <Code><![CDATA[who-73926]]></Code>
-       <GTIN><![CDATA[8028713220029]]></GTIN>
+       <GTIN>8028713220029</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>76.81</Price>
        <InStore>Kohal</InStore>
@@ -860,7 +860,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma maikelluke EDP 100ml]]></Name>
        <Code><![CDATA[who-164538]]></Code>
-       <GTIN><![CDATA[8028713811210]]></GTIN>
+       <GTIN>8028713811210</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>67.78</Price>
        <InStore>Kohal</InStore>
@@ -879,7 +879,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Luce Di Rosa EDP 100ml]]></Name>
        <Code><![CDATA[who-212383]]></Code>
-       <GTIN><![CDATA[8028713819209]]></GTIN>
+       <GTIN>8028713819209</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>159.86</Price>
        <InStore>Kohal</InStore>
@@ -898,7 +898,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Osmanthus EDP 100ml]]></Name>
        <Code><![CDATA[who-163731]]></Code>
-       <GTIN><![CDATA[8028713810015]]></GTIN>
+       <GTIN>8028713810015</GTIN>
        <Description><![CDATA[]]></Description>
        <Price>140.16</Price>
        <InStore>Kohal</InStore>
@@ -917,7 +917,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Oud &amp; Spice EDP 100ml]]></Name>
        <Code><![CDATA[who-163706]]></Code>
-       <GTIN><![CDATA[None]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>125.76</Price>
        <InStore>Kohal</InStore>
@@ -936,7 +936,7 @@
        <Vendor><![CDATA[Acqua di Parma]]></Vendor>
        <Name><![CDATA[Acqua di Parma Oud EDP 100ml]]></Name>
        <Code><![CDATA[who-159566]]></Code>
-       <GTIN><![CDATA[None]]></GTIN>
+       <GTIN></GTIN>
        <Description><![CDATA[]]></Description>
        <Price>135.78</Price>
        <InStore>Kohal</InStore>
